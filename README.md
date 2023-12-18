@@ -1,2 +1,5 @@
-# mimikatz_autorun_usb
-windows users passwords save on log file
+# Usage
+
+Copy files to usb drive.
+
+Install usbac.exe and open, select autorun file run.vbs.
